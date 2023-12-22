@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "NQUEEN.C": "cpp",
+        "TSP.C": "cpp",
+        "string": "c",
+        "stdbool.h": "c"
+    }
+}
